@@ -1,0 +1,20 @@
+mat-drawer-container
+{
+    height: 82%;
+}
+
+mat-drawer 
+{
+    /* here we style items inside the navbar */
+
+    width: 20%;  /* increasing the width of our navbar */
+    padding: 1%
+}
+
+mat-drawer-content
+{
+    /* here we style dashboard/main item */
+
+    padding: 2%;
+
+}
